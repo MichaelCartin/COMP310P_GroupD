@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: lightgrey;
+    color: black;
+    font-family: 'Viga', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+    bottom: 0;
+}
+p{
+    font-size: 20px;
+}
+
+input{
+    border: 0;
+    padding: 10px;
+    font-size: 18px;
+}
+input[type="submit"] {
+    background: red;
+    color: white;
+}
+
+ul{
+    padding: 10px;
+}
+
+li{
+    display: inline;
+    padding: 0px 15px 0px 15px;
+}
